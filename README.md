@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hey, I'm Nirav 👋
 
-<!--
-**niravzxv/niravzxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack engineer based in India, working remotely for the last 4 years. I build the backend infrastructure that makes AI products work — MCP servers, payment integrations, agentic pipelines, data systems at scale.
 
-Here are some ideas to get you started:
+**Currently building:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 [phonepe-mcp](https://github.com/niravzxv/phonepe-mcp) — MCP server for India's largest payment processor. TypeScript, OAuth, webhook crypto.
+- 🤖 [upi-agent](https://github.com/niravzxv/upi-agent) — Minimal agent loop (no framework) that drives MCP tools using Llama 3.3 70B.
+- 💸 [upi-mcp](https://github.com/niravzxv/upi-mcp) — Offline UPI link builder + QR generator. Zero dependencies, no API keys.
+
+**Shipped in production:**
+
+- Real-time analytics platform processing **5M+ data points/day** for a multinational restaurant chain across India & Indonesia
+- Digital goods e-commerce platform with Stripe payments, live with paying customers
+- Telehealth platform with WebRTC video consultations and Razorpay integration
+
+**Open source:**
+
+- Merged PR [#16618](https://github.com/GoogleChrome/lighthouse/pull/16618) to **Google Lighthouse** — the tool baked into Chrome DevTools, used by millions
+
+**Stack:** TypeScript · Node.js · React · Next.js · PostgreSQL · MongoDB · Redis · AWS · Docker · OpenAI & Anthropic APIs · MCP
+
+---
+
+📫 **nirav.gondaliya@icloud.com** · [Portfolio](https://niravzxv.github.io) · [LinkedIn](https://www.linkedin.com/in/niravzxv)
+
+Open to senior / founding remote roles. I read every message.
