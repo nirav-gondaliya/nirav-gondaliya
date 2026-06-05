@@ -4,9 +4,9 @@ Senior full-stack engineer based in India, working remotely for the last 4 years
 
 **Currently building:**
 
-- 🔧 [phonepe-mcp](https://github.com/niravzxv/phonepe-mcp) — MCP server for India's largest payment processor. TypeScript, OAuth, webhook crypto.
-- 🤖 [upi-agent](https://github.com/niravzxv/upi-agent) — Minimal agent loop (no framework) that drives MCP tools using Llama 3.3 70B.
-- 💸 [upi-mcp](https://github.com/niravzxv/upi-mcp) — Offline UPI link builder + QR generator. Zero dependencies, no API keys.
+- 🔧 [phonepe-mcp](https://github.com/nirav-gondaliya/phonepe-mcp) — MCP server for India's largest payment processor. TypeScript, OAuth, webhook crypto.
+- 🤖 [upi-agent](https://github.com/nirav-gondaliya/upi-agent) — Minimal agent loop (no framework) that drives MCP tools using Llama 3.3 70B.
+- 💸 [upi-mcp](https://github.com/nirav-gondaliya/upi-mcp) — Offline UPI link builder + QR generator. Zero dependencies, no API keys.
 
 **Shipped in production:**
 
@@ -22,6 +22,6 @@ Senior full-stack engineer based in India, working remotely for the last 4 years
 
 ---
 
-📫 **nirav.gondaliya@icloud.com** · [Portfolio](https://niravzxv.github.io) · [LinkedIn](https://www.linkedin.com/in/niravzxv)
+📫 **nirav.gondaliya@icloud.com** · [Portfolio](https://niravgondaliya.dev) · [LinkedIn](https://www.linkedin.com/in/niravgondaliya)
 
 Open to senior / founding remote roles. I read every message.
